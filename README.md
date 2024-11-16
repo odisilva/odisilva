@@ -1,6 +1,6 @@
 ## Dielson Antonio da Silva
 
-**Graduando em engenharia eletrônica e de computação e técnico em eletrônica.**
+**Graduando análise e desenvolvimento de sistemas .**
 
 - 🎨 Experiência em Criação de Artes Gráficas – unindo design e código para soluções visuais e funcionais
 - 🚀 Habilidades: HTML, CSS (intermediário), JavaScript (básico), Git, Bootstrap
