@@ -67,4 +67,4 @@ Além de ser um entusiasta da tecnologia, também sou **músico instrumentista**
 - **Email:** dielson.silva@aluno.recode.org.br  
 - **GitHub:** [Dielson no GitHub](https://github.com/odisilva)  
 - **LinkedIn:** [Dielson no LinkedIn](https://www.linkedin.com/in/dielson-silva-b572b6248/)  
-- **Instagram:** [@seuInstagram](https://instagram.com/dielson.a.s) 
+- **Instagram:** [@dielson.a.s](https://instagram.com/dielson.a.s) 
