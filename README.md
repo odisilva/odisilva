@@ -11,7 +11,8 @@
 - 🎓 **Aluno Recode** no curso de **Programadores Full Stack**  
 - 💡 **Conhecimentos em Inteligência Artificial**  
 - 🎨 **Experiência em Design Gráfico** (Canva, Photoshop)  
-- 💻 **Habilidades Técnicas:**  
+- 💻 **Habilidades Técnicas:**
+    
   - **HTML, CSS (Intermediário), JavaScript (Básico)**  
   - **Bootstrap**  
   - **Git (Versionamento)**  
