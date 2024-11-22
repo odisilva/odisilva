@@ -52,12 +52,12 @@ Além de ser um entusiasta da tecnologia, também sou **músico instrumentista**
   - Valorização de design gráfico para a marca  
 ---
 
-## 📚 Formação Acadêmica  
-- **Análise e Desenvolvimento de Sistemas** – Centro Universitário Mario Pontes Jucá (UMJ), 3º período  
-- **Curso de Programadores Full Stack** – Recode, com foco em tecnologias web e inteligência artificial  
+## 📚 Formação Acadêmica
+- **Análise e Desenvolvimento de Sistemas** – Centro Universitário Mario Pontes Jucá (UMJ), 3º período em Andamento 
+- **Curso de Programadores Full Stack** – Recode, com foco em tecnologias web e inteligência artificial.
+- **Licenciatura em Filosofia** - Universidade Federal de Alagoas (UFAL), 7º período trancado.   
 - **Capacitações:**  
-  - Desenvolvimento Web (Básico e Avançado)  
-  - Auxiliar Administrativo  
+  - Desenvolvimento Web (Básico e Avançado) 
   - Noções de Marketing e Recursos Humanos  
 
 ---
